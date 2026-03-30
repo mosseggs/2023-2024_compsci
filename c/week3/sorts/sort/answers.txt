@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Takes a long time for a random sort and reversed sort but is sometimes much faster or much slower than sort3 fitting an O of n^2 and an Omega of n
+
+sort2 uses: Merge sort
+
+How do you know?: Efficient for every single option
+
+sort3 uses: Selection Sort
+
+How do you know?: Takes a long time for a random sort,Takes a long time for a reversed sort. takes about the same time for each program, fitting an O and Omega of n^2

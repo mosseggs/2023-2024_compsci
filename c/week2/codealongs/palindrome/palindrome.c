@@ -1,0 +1,1 @@
+submit50 cs50/problems/2023/x/bulbs
